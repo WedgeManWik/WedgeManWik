@@ -1,6 +1,8 @@
 <h1 align="center">Hey! My name's Wiktor - AKA WedgeManWik</h1>
 <h3 align="center">Self Motivated Games Developer at Staffordshire University.</h3>
 
+<br>
+
 - 🔭 I’m currently working on **Mario in C++, as well as a 3D game in OpenGL.**
 
 - 🌱 I’m currently learning **how to code in C++, and OpenGL.**
