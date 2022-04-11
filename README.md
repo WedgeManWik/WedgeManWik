@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to code in C++, and OpenGL.**
 
-- 📝 I regularly write gaming articles on [www.linkedin.com/in/wiktor-janik](www.linkedin.com/in/wiktor-janik)
+- 📝 I regularly write gaming articles on [https://www.linkedin.com/in/wiktor-janik/](https://www.linkedin.com/in/wiktor-janik/)
 
 - 💬 Ask me about **My top 3 favourite games!**
 
