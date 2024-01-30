@@ -3,17 +3,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **Mario in C++, as well as a 3D game in OpenGL.**
+- 🔭 I’m currently working on **3D Vertical Pathfinding in UE5, and a Tower Defence game**
 
 - 🌱 I’m currently learning **how to code in C++, and OpenGL.**
 
-- 📝 I regularly write gaming articles on [https://www.linkedin.com/in/wiktor-janik/](https://www.linkedin.com/in/wiktor-janik/)
-
-- 💬 Ask me about **My top 3 favourite games!**
+- 📝 Connect with me on LinkedIn!  [https://www.linkedin.com/in/wiktor-janik/](https://www.linkedin.com/in/wiktor-janik/)
 
 - 📫 How to reach me **j012100l@student.staffs.ac.uk**
-
-- ⚡ Fun fact **I like to do rock climbing in my spare time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
