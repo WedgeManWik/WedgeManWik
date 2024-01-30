@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **3D Vertical Pathfinding in UE5, and a Tower Defence game**
 
-- 🌱 I’m currently learning **how to code in C++, and OpenGL.**
+- 🌱 I’m currently learning **C++ in UE5**
 
 - 📝 Connect with me on LinkedIn!  [https://www.linkedin.com/in/wiktor-janik/](https://www.linkedin.com/in/wiktor-janik/)
 
