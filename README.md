@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name's Wiktor - AKA WedgeManWik</h1>
-<h3 align="center">Self Motivated Games Developer at Staffordshire University.</h3>
+<h3 align="center">Game Developer</h3>
 
 <br>
 
