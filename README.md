@@ -3,13 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **3D Vertical Pathfinding in UE5, and a Tower Defence game**
-
-- 🌱 I’m currently learning **C++ in UE5**
+- 🔭 I’m currently working on **a multiplayer volleyball game**
 
 - 📝 Connect with me on LinkedIn!  [https://www.linkedin.com/in/wiktor-janik/](https://www.linkedin.com/in/wiktor-janik/)
 
-- 📫 How to reach me **j012100l@student.staffs.ac.uk**
+- 📫 How to reach me **wiktorjanik2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
